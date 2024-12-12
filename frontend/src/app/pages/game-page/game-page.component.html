@@ -1,0 +1,70 @@
+<div>
+  <div class="title-wrapper">
+    <h1>
+      Devedle
+      <span *ngIf="game?.gameStatus !== 'IN_PROGRESS'"
+        >-
+        <span [ngClass]="game?.gameStatus === 'WON' ? 'green' : 'red'">{{
+          game?.gameStatus
+        }}</span></span
+      >
+    </h1>
+  </div>
+  <div class="image-wrapper">
+    <img
+      *ngIf="game?.original?.imageId !== null"
+      draggable="false"
+      [src]="'assets/images/' + game?.original?.imageId"
+      alt=""
+    />
+  </div>
+  <div
+    class="form-wrapper"
+    *ngIf="game?.gameStatus === 'IN_PROGRESS'; else gameOver"
+  >
+    <div class="dropdown-wrapper">
+      <input
+        type="text"
+        placeholder="🔎 Search for a technology..."
+        [formControl]="input"
+      />
+      <ul class="dropdown-menu" *ngIf="options.length > 0">
+        <li
+          *ngFor="let suggestion of options"
+          role="option"
+          [attr.aria-selected]="isSelected(suggestion)"
+          (click)="selectSuggestion(suggestion)"
+          tabindex="0"
+          [attr.aria-label]="suggestion"
+          (keydown)="handleKeydown($event)"
+          #item
+        >
+          {{ suggestion }}
+        </li>
+      </ul>
+    </div>
+    <div class="button-wrapper">
+      <button class="btn-skip" (click)="skip()" #skipButton>Skip</button>
+      <button class="btn-play" (click)="play()" [disabled]="!input.value">
+        Guess!
+      </button>
+    </div>
+    <div class="guesslist-wrapper" *ngIf="game?.attempts?.length !== 0">
+      <ul>
+        <li *ngFor="let attempt of game?.attempts">
+          <div class="item-name">{{ attempt?.name || 'Skipped' }}</div>
+        </li>
+      </ul>
+    </div>
+    <span class="attempts-wrapper"
+      >{{ game!.maxAttempts! - game!.attempts!.length }} attempts
+      remaining</span
+    >
+  </div>
+  <ng-template #gameOver>
+    <h1>{{ game?.original?.name }}</h1>
+    <div>
+      <button class="btn-reset" (click)="reset()">Play Again</button>
+    </div>
+  </ng-template>
+</div>

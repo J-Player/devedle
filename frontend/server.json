@@ -1,0 +1,584 @@
+[
+  {
+    "id": "87ef3dfe-4984-4df0-bfb7-c6baa09265d6",
+    "name": "Angular",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "c307ceaf-b250-4739-9fab-ea2ddddcbb82",
+    "name": "Axios",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "d55fb79d-708e-4fdf-8cab-fc86d530ba0b",
+    "name": "Bootstrap",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "de1fa7c1-1099-4ff8-a03a-334e1d889c34",
+    "name": "C",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "e04a95cf-2208-46ca-9be4-8f0f6b9832c8",
+    "name": "C#",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "a6a1fc15-356f-4d38-a391-70b291c4540d",
+    "name": "C++",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "3a6963dd-1c30-4b48-acd4-7fb5ac8ec249",
+    "name": "ChartJS",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "a29aae2c-63f4-49a5-8fac-8505c1cda6c1",
+    "name": "Clojure",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "b7a38f6d-801c-4da3-88f4-420a7b31a478",
+    "name": "CockroachDB",
+    "type": "Database",
+    "imageUrl": null
+  },
+  {
+    "id": "13a2098a-8bc0-4e72-bdc9-4c2cccda5638",
+    "name": "CSS",
+    "type": "Stylesheet Language",
+    "imageUrl": null
+  },
+  {
+    "id": "9d2fc98b-4097-42d0-baa9-0626e650e63f",
+    "name": "D3JS",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "9c711481-1ca5-443a-b248-0fac4f9c7643",
+    "name": "Dart",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "c03e81fc-6a3e-4072-b607-e34770fb93a3",
+    "name": "Django",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "66c846d8-1d7e-4269-b16b-552cdd570b86",
+    "name": "Electron",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "7381223b-9d31-4b10-bb26-9660a5844a18",
+    "name": "Elixir",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "94998545-781b-44ab-a340-260754d926a6",
+    "name": "Erlang",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "8b14657c-65dd-4467-800d-42e93a4c7cb2",
+    "name": "ExpressJS",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "2ca3452a-efa1-4cf5-a916-0ec072467ff6",
+    "name": "F#",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "94528864-2c90-4562-ad80-5dba06599b0f",
+    "name": "Flask",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "9b2058f9-1e2a-46b0-aefc-b955139f2cb5",
+    "name": "Flutter",
+    "type": "Software Development Kit",
+    "imageUrl": null
+  },
+  {
+    "id": "b8600ee3-05c8-4f2c-abb8-818f4a11a724",
+    "name": "Fortran",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "7e00e585-40f4-459f-b528-54209283ffb1",
+    "name": "Go",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "6e544aea-67b5-46e1-ae80-631592cd6024",
+    "name": "GraphQL",
+    "type": "Query Language",
+    "imageUrl": null
+  },
+  {
+    "id": "5ed6545f-7b8e-4621-b1ed-5527bd6dffbd",
+    "name": "Groovy",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "af406ec1-eb7e-4b50-8dcd-f45004e32b41",
+    "name": "Haskell",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "e64dfb98-8603-4dd3-b125-28ff05c0018e",
+    "name": "HTML",
+    "type": "Markup Language",
+    "imageUrl": null
+  },
+  {
+    "id": "938fcf7b-dd19-4bd7-b38f-11631c8be9fc",
+    "name": "Ionic",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "71614d23-8971-4bfb-8e9a-b4cbe0ec5c81",
+    "name": "Java",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "fc27a48c-c9e3-4d8c-9562-61199aeb25ac",
+    "name": "JavaScript",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "beceffe5-4025-4102-8e18-da92b61fafde",
+    "name": "Jenkins",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "96fd4833-4601-447d-8d7e-3b5032d17952",
+    "name": "Jira",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "cec2ab27-1a59-459a-9e7d-7bc47977458e",
+    "name": "JQuery",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "3656d716-271e-4f02-b80f-617ec1f71ed9",
+    "name": "Julia",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "fdf88eaa-b2a9-4e9a-a0c4-4a7acb228e50",
+    "name": "Kibana",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "a0d1cc06-b3db-40c8-934a-21b2fd4331d8",
+    "name": "Kotlin",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "4d5e9083-1ac2-4e0f-b070-6e8b2a325523",
+    "name": "Kubernetes",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "6b2b9924-9dca-4684-a8dc-e2dfe1c9e24a",
+    "name": "Laravel",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "ba6ce92d-1b73-4e2c-b6a8-fb624f874131",
+    "name": "Lisp",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "a91280c3-34b2-4840-af98-92b3c8ab4603",
+    "name": "Lodash",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "36cf46e5-5792-44b9-b63f-2b2f33fae229",
+    "name": "MATLAB",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "a8743355-cc74-4ed2-9b6b-aa22fa3ac29c",
+    "name": "Matplotlib",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "b6a704a9-180b-4c67-8d6f-34bc8108bc84",
+    "name": "MomentJS",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "2f2457c1-108b-46e0-8d8f-72c3bf5628e9",
+    "name": "MongoDB",
+    "type": "Database",
+    "imageUrl": null
+  },
+  {
+    "id": "7be392ba-3007-4e67-bf22-95870050bafb",
+    "name": "MySQL",
+    "type": "Database",
+    "imageUrl": null
+  },
+  {
+    "id": "d54fa313-2cf6-4593-af11-fdbfbee21635",
+    "name": "NetBeans",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "5b96b003-c339-4131-b5ba-0e106fb6a183",
+    "name": "NestJS",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "4724412d-1ce3-4e60-b2de-ff08dc072cad",
+    "name": "NextJS",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "b2e1fc29-faae-4d88-b7a1-919cd099647b",
+    "name": "Nginx",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "52d03c3a-9fe2-41ad-a545-d03ed025a7bb",
+    "name": "NodeJS",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "817bc987-306e-403d-a486-525e43aa0355",
+    "name": "Notepad++",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "f53c32d6-3f06-4b0d-9185-4f4eb87cf76e",
+    "name": "Notion",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "a84a399b-1f6f-4508-8560-a5d8f3f943f9",
+    "name": "NumPy",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "65dfe6e6-2209-4a85-89d1-69845f3f2df8",
+    "name": "NuxtJS",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "b3f6b4de-0bf1-4fdd-8fec-53a004d2df64",
+    "name": "Objective-C",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "c5691592-d8e0-4781-8c17-9d9e57bd9f1a",
+    "name": "OpenShift",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "6ee4c63d-6d46-4fc2-be29-34cdbdda8c7a",
+    "name": "Oracle (Database)",
+    "type": "Database",
+    "imageUrl": null
+  },
+  {
+    "id": "5d405345-0eb0-48df-aec5-0ded2f49d4f6",
+    "name": "Pandas",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "44c0bb74-5569-4962-af88-9214e2e4d51a",
+    "name": "Perl",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "afd40228-ab9c-4205-951b-53ff0f5cabfa",
+    "name": "PHP",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "f4f37e9b-3179-496f-830e-4571033dcf1a",
+    "name": "Podman",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "b943670e-2f32-4d8c-9d0a-b548c4f95f04",
+    "name": "PostgreSQL",
+    "type": "Database",
+    "imageUrl": null
+  },
+  {
+    "id": "f3a2c8fd-ef8c-45ea-b897-7e862ce7c1c6",
+    "name": "Postman",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "8ba4b812-e947-4a5d-8e37-7a6ad54d8466",
+    "name": "Prometheus",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "59e0134c-c52e-4c0d-ac04-588126f20811",
+    "name": "PyCharm",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "a51dd28c-7a20-4ec1-8beb-0d58423e3878",
+    "name": "PyTorch",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "beae168f-7a08-4c67-9178-1abc92f729e7",
+    "name": "Python",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "f63aa58c-3a5a-4e02-a59d-46975bff3ce5",
+    "name": "RabbitMQ",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "6a938285-2223-4948-8603-e1b18c8f8253",
+    "name": "R",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "5fd0f67a-1525-4656-93a3-8b775ee5ccc6",
+    "name": "React",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "b24195ca-9f56-4392-9a3b-87638b35145b",
+    "name": "React Native",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "8a49146c-b9ae-4709-b2dc-f34925780e57",
+    "name": "Redis",
+    "type": "Database",
+    "imageUrl": null
+  },
+  {
+    "id": "9004cb6b-3f66-48d0-aa1f-3515b254ba5c",
+    "name": "Redux",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "75098142-7171-4bce-8cbd-86d12fc54445",
+    "name": "Ruby",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "6987d2de-761f-4b4f-b9f6-5d2c1e78cb77",
+    "name": "Ruby on Rails",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "41abf28d-c754-435f-9248-17db432ba25b",
+    "name": "Rust",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "d707c473-7575-4e4a-bb3b-e7d5208f4605",
+    "name": "Scalar",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "e3d240d6-c983-4bda-9ead-c20e3bf18456",
+    "name": "Scikit-learn",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "b2d59fbc-d3f3-400b-85cd-4960b385ad5c",
+    "name": "Slack",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "51d5ee5f-8655-44d8-af83-2bff2b5db42b",
+    "name": "Solidity",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "0c780421-43ed-4800-8670-94b3214402b7",
+    "name": "Spring",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "dc9bf4dc-6d9e-4748-9db2-6c417e685590",
+    "name": "Sublime Text",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "91f4be1f-84c6-4fc9-be1c-b0cffb42d264",
+    "name": "Swift",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "917cec8a-7903-4f9b-b877-44f754e50a7a",
+    "name": "Svelte",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "7f621e1e-2888-4d95-87ad-81d986c20635",
+    "name": "TensorFlow",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "d86d6344-2490-4681-bfa4-a1186bd6e810",
+    "name": "Terraform",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "880eecb2-8b88-4094-b46d-c4d62e915d49",
+    "name": "ThreeJS",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "e7c16176-6f90-4d80-80c2-58c7a6dc1dbd",
+    "name": "TypeScript",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "2242de9a-0f3c-4469-8d5e-a0c6d959a381",
+    "name": "UnderscoreJS",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "507a75eb-6612-4dfc-9d53-b7c403b1ec74",
+    "name": "Visual Studio",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "35a10a3c-f786-4b07-adc8-4ff85c32c5bc",
+    "name": "Visual Studio Code",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "a86090b4-380f-47e8-9861-371d73824717",
+    "name": "Vim",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "a568ee67-c518-4c34-ba78-3fa33673d2ec",
+    "name": "Vue",
+    "type": "Framework",
+    "imageUrl": null
+  },
+  {
+    "id": "5d7f057e-8062-40d2-86ed-85341a3525be",
+    "name": "Vuex",
+    "type": "Library",
+    "imageUrl": null
+  },
+  {
+    "id": "c63bbae1-3091-4b06-8191-3b1339e011f0",
+    "name": "WebStorm",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "70fc0271-3945-4cd5-865e-e258098570b8",
+    "name": "Xcode",
+    "type": "Other",
+    "imageUrl": null
+  },
+  {
+    "id": "98a17446-83e5-4289-9b85-9081e396aab0",
+    "name": "Zig",
+    "type": "Programming Language",
+    "imageUrl": null
+  },
+  {
+    "id": "37d18cc1-be9e-4574-8cc3-d39ebf554307",
+    "name": "Zod",
+    "type": "Other",
+    "imageUrl": null
+  }
+]

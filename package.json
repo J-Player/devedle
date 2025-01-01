@@ -1,0 +1,19 @@
+{
+  "name": "devedle",
+  "private": true,
+  "scripts": {
+    "start": "node backend/dist/main",
+    "build": "turbo run build",
+    "dev": "turbo run dev",
+    "format": "turbo run format",
+    "lint": "turbo run lint"
+  },
+  "workspaces": [
+    "backend",
+    "frontend"
+  ],
+  "packageManager": "npm@8.5.0",
+  "devDependencies": {
+    "turbo": "^2.3.3"
+  }
+}
